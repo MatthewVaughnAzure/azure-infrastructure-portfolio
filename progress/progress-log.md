@@ -60,3 +60,4 @@
 2025-10-29 – Completed W0D0-Showed-Up, rescheduled start date to 2025-10-30
 2025-10-31 – Completed W0D0-Showed-Up, rescheduled start date to 2025-11-01
 2025-10-31 – Completed W0D0-Showed-Up, rescheduled start date to 2025-11-01
+2025-11-02 – Completed W0D0-Showed-Up, rescheduled start date to 2025-11-03
