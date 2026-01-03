@@ -114,3 +114,4 @@
 2026-01-01 – Completed W0D0-Showed-Up, rescheduled start date to 2026-01-02
 2026-01-01 – Completed W0D0-Showed-Up, rescheduled start date to 2026-01-02
 2026-01-02 – Completed W0D0-Showed-Up, rescheduled start date to 2026-01-03
+2026-01-03 – Completed W0D0-Showed-Up, rescheduled start date to 2026-01-04
